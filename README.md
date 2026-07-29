@@ -1,4 +1,8 @@
-## Hi there 👋
+##HELLO 
+This is Kaminedi Vignitha Anagha this side,
+currently a freshmen in Andra University. I am rolling up my sleeves for a hackathon in a month 
+I am still learning the basics with AI and coding. 
+![Uploading 5NE2L7vdWZ9V39Sjq8.webp…]()
 
 <!--
 **KaminediVignithaAnagha/KaminediVignithaAnagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
