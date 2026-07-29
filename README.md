@@ -3,6 +3,7 @@ This is Kaminedi Vignitha Anagha this side,
 currently a freshmen in Andra University. I am rolling up my sleeves for a hackathon in a month 
 I am still learning the basics with AI and 
 
+<img width="480" height="360" alt="Image" src="https://github.com/user-attachments/assets/5e132f64-a5e6-4134-9c78-611a1fd98556" />
 <!--
 **KaminediVignithaAnagha/KaminediVignithaAnagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
