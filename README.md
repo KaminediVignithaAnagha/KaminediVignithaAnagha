@@ -1,11 +1,11 @@
 HELLO !!
 
 This is Kaminedi Vignitha Anagha this side,
-currently a freshmen in Andra University. 
+Founder of SafeNest, currently a freshmen in Andra University. 
 
-I am rolling up my sleeves for a hackathon,  
+I am rolling up my sleeves for a hackathon and interships,
 I am still learning the basics with AI and coding.
-I have found myself constantly drawn towards solving real world problems like SafeNest
+I have found myself constantly drawn towards solving real world problems like with SafeNest,VoiceNotes and Interview-Coach
 Looking forward for collabs and more interesting aspects of coding.
 
 <img width="480" height="360" alt="Image" src="https://github.com/user-attachments/assets/5e132f64-a5e6-4134-9c78-611a1fd98556" />
