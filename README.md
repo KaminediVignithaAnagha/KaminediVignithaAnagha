@@ -1,4 +1,4 @@
-HELLO !!
+HELLO !! - Currently due in a Hackathon for AgriMinds 2026
 
 This is Kaminedi Vignitha Anagha this side,
 Founder of SafeNest,
