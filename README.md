@@ -1,7 +1,7 @@
-HELLO !! - Currently due in a Hackathon for AgriMinds 2026
+HELLO !! - Currently focusing on my GPA,for looking more into summer programmes and research.
 
 This is Kaminedi Vignitha Anagha this side,
-Founder of SafeNest,
+Founder of SafeNest, Creator and Team Leader of CropShield.
 
 currently a freshmen in Andra University. 
 
