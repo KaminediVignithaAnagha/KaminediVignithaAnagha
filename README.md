@@ -1,4 +1,4 @@
-HELLO !! - Currently focusing on my GPA,for looking more into summer programmes and research.
+HELLO !! - Currently pulling up my socks for my GPA,for looking more into summer programmes and research.
 
 This is Kaminedi Vignitha Anagha this side,
 Founder of SafeNest, Creator and Team Leader of CropShield.
